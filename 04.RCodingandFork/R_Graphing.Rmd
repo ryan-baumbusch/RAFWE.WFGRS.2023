@@ -13,7 +13,7 @@ library(ggplot2)
 ok, let's pull in that model, and the datasets
 first we'll set the working drive, then load from there
 ```{r}
-setwd("C:/PhD/Git/RAFWE.WFGRS.2023")
+setwd("/Users/baumbusch/Documents/GitHub/RAFWE.WFGRS.2023")
 load("./04.RCodingandFork/simulatedmodels/model.RData")
 load("./04.RCodingandFork/datasetcreation/sallysonwood.RData")
 ```
